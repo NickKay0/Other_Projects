@@ -1,3 +1,11 @@
+/*
+The purpose of this code is to give a user the choice of encypting and/or decrypting a string to the user-selected algorithm
+these algorithms are:
+    1.Polyalphabetic Substitution / vignere
+    2.Transposition
+    3.Stream Transposition
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
